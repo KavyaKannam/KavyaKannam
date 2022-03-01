@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kavya
+- 👀 I’m interested in learning new technologies.
+- 🌱 I’m currently learning selenium and Springboot.
+- 💞️ I’m looking to collaborate on  AutomationTesting and Springboot technology.
+- 📫 How to reach me  kavyakannam346@gmail.com
+- 👀 Enthusiastic to learn and implement any new skills in a given task.
